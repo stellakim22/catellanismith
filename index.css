@@ -541,7 +541,7 @@ footer .card-box img {
   }
 
   .banner.section .inner-txt {
-    top: 53%;
+    top: 40%;
    
   }
   .banner.section .inner-txt h1{
@@ -611,6 +611,8 @@ footer .card-box img {
 }
 /* 700에서 틀어지는 부분있으면 여기에 */
 @media (max-width: 800px) {
+
+  
   .sec-3 .photo {
     background: url(./img/sj1.jpg) no-repeat 0 0;
     background-size: cover;
