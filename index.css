@@ -525,10 +525,7 @@ footer .card-box img {
 }
 
 @media (max-width: 1200px) {
-  body{
-    overflow-x: hidden;
-  
-  }
+ 
 
   
  
@@ -545,7 +542,7 @@ footer .card-box img {
   }
 
   .banner.section .inner-txt {
-    top: 60%;
+    top: 40%;
    
   }
   .banner.section .inner-txt h1{
@@ -553,7 +550,7 @@ footer .card-box img {
   }
 
   .sec-1 .inner-txt h1 {
-    font-size: 90px;
+    font-size: 110px;
   }
   .sec-1 .inner-txt p {
     font-size: 0.7rem;
