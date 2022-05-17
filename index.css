@@ -525,6 +525,10 @@ footer .card-box img {
 }
 
 @media (max-width: 1200px) {
+  body{
+    overflow-x: hidden;
+  
+  }
 
   
  
@@ -541,7 +545,7 @@ footer .card-box img {
   }
 
   .banner.section .inner-txt {
-    top: 40%;
+    top: 60%;
    
   }
   .banner.section .inner-txt h1{
