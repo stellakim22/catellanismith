@@ -19,10 +19,10 @@ a {
   text-decoration: none;
   color: #fff;
 }
-html,body{
+body{
   overflow-x: hidden;
   max-width: 100%;
-  height: auto;
+  height: auto; 
 
 }
 
@@ -33,10 +33,10 @@ img{
 }
 body {
   /* width: 100vw; */
-  /* height: 100vh;
-  -webkit-font-smoothing: antialiased; */
+  /* height: 100vh; */
+  -webkit-font-smoothing: antialiased;
   font-size: 100%;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
 }
 
 /* 메인 */
